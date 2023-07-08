@@ -240,7 +240,7 @@ FROM
     PercentPopulationVaccinated;
 
 
--- Queries Used for extracting data for Tableau Visualization
+-- Queries Used for extracting data for analyzing in Tableau
 
 Use Portfolio;
 -- 1. 
