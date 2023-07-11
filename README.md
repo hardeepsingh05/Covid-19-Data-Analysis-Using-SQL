@@ -5,7 +5,7 @@
 
 --> In this project, I have explored this COVID-19 Dataset and worked on getting some useful insights.
 
---> I have also extracted some dataset out of the MySQL and imported in Tableau by running some queries which are also available in Code File.
+--> I have also extracted some data using MySQL and imported in Tableau by running some queries which are also available in Code File.
 
 --> So, here is the link of Dashboard which I created using Tableau, you can visit that here: https://public.tableau.com/views/Covid-19AnalysisProject_16873715584440/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
